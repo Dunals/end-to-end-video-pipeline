@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.mp3
+*.jpg
+*.png
+*.mp4
+Final_Video_Output/
+.env
+.DS_Store
