@@ -1,0 +1,10 @@
+requests
+moviepy
+openai-whisper
+Pillow
+numpy
+scipy
+imageio
+imageio-ffmpeg
+decorator
+tqdm
